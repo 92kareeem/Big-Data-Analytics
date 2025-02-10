@@ -61,6 +61,8 @@ public class WordCount {
     }
 }
 ```
+1. Hadoop jar WORDCOUNT.jar WORDCOUNT.WORDCOUNT INPUT.txt dir7
+
 
 ---
 
